@@ -12,6 +12,7 @@ Note:
 	and the latest training mode is just an average. Recognition result data were randomly generated numbers. if the same number were generated again then it was found on the last and no further training needed. Every new data (number) generated gets an ID.  
 
 Question 2 Answer :
+
 	1- the for statement should be in an else statement, because if(!p) is true then p.tags will
 	an invalid value and the if statement in the for loop will always be and tag_types elements won't be printed
 	
