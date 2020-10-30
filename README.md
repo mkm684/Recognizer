@@ -1,4 +1,4 @@
-# Recognizer CPP Code challenge
+# Recognizer C++ Code challenge
 
 I have implemented the whole application. Including the RecognizerModel. 
 I wanted to make sure my solution is correct and works. so there is no better way to check that than implementing it. 
